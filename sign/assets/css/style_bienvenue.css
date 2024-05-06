@@ -1,0 +1,22 @@
+.login {
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.mdp {
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.widercard{
+
+  background-color: #fff;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+
